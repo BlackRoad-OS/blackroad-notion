@@ -68,7 +68,7 @@ Your Notion database should have these properties:
 
 ## License
 
-MIT License
+BlackRoad Proprietary License
 
 ---
 
